@@ -5,6 +5,16 @@ main()
 	# setup
 }
 
+termux_setup()
+{
+
+}
+
+setup_linux()
+{
+
+}
+
 device()
 {
 	if [[ -d /usr/bin ]]; then
